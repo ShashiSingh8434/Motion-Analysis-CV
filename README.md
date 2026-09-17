@@ -33,7 +33,7 @@ Input Video -> Preprocessing -> [Method: Background Sub, Optical Flow, KLT] -> O
 
 ```bash
 # Clone the repository
-git clone <url>
+git clone https://github.com/ShashiSingh8434/Motion-Analysis-CV.git
 cd computer-vision-object-tracking
 
 # Create virtual environment
